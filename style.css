@@ -263,8 +263,9 @@ main .date {
 }
 
 main .date input[type="date"] {
+  width: 100%;
   background: transparent;
-  color: var(--color-dark);
+  color: var(--color-dark-variant);
 }
 
 main .insights {

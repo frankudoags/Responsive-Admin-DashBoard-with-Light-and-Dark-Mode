@@ -212,8 +212,9 @@ main {
         padding: 0.5rem 0.6rem;
 
         input[type="date"] {
+            width: 100%;
             background: transparent;
-            color: var(--color-dark);
+            color: var(--color-dark-variant);
         }
     }
     .insights {
