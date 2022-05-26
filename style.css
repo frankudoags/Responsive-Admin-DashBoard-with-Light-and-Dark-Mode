@@ -266,7 +266,7 @@ main .date {
 main .date input[type="date"] {
   width: 100%;
   background: transparent;
-  color: var(--color-dark-variant);
+  color: var(--color-dark);
 }
 
 main .insights {
